@@ -1,0 +1,15 @@
+{
+  "category" : "Web Application",
+  "createdAt" : 1558633426644,
+  "description" : "A Cross-Platform application created with Xamarin and C#. The goal               of this project is that users can find houses on sale in safe               neighbourhoods. If the user selects a house he / she can see the               crime rates ordered by sort.",
+  "descriptionLong" : "text",
+  "tag1" : "ReactJS",
+  "tag2" : "CSS",
+  "tag3" : "Bootstrap",
+  "tag4" : "FireBase",
+  "title" : "MovoDB",
+  "urlGit" : "url",
+  "urlPreview" : "https://i.imgur.com/bSCTSzw.jpg",
+  "urlSite" : "url",
+  "userId" : "ft9eTUPKECPG0LhB75wIL5I2r3Q2"
+}

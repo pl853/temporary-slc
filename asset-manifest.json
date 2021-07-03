@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c3999a4.chunk.css",
+    "main.js": "/static/js/main.e81f4460.chunk.js",
+    "main.js.map": "/static/js/main.e81f4460.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.9e63dcda.chunk.css": "/static/css/2.9e63dcda.chunk.css",
+    "static/js/2.86138c3c.chunk.js": "/static/js/2.86138c3c.chunk.js",
+    "static/js/2.86138c3c.chunk.js.map": "/static/js/2.86138c3c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7a86a3fa14fd64c76bef22f8abe12a9f.js": "/precache-manifest.7a86a3fa14fd64c76bef22f8abe12a9f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9e63dcda.chunk.css.map": "/static/css/2.9e63dcda.chunk.css.map",
+    "static/css/main.6c3999a4.chunk.css.map": "/static/css/main.6c3999a4.chunk.css.map",
+    "static/media/card-danger.png": "/static/media/card-danger.48578653.png",
+    "static/media/logo.png": "/static/media/logo.97ab059c.png",
+    "static/media/nucleo-icons.css": "/static/media/nucleo.f0b489a5.woff",
+    "static/media/p-git.png": "/static/media/p-git.24689309.png",
+    "static/media/p-html.png": "/static/media/p-html.a27d14a2.png",
+    "static/media/p-linux.png": "/static/media/p-linux.547265ff.png",
+    "static/media/p-netcoreframe.png": "/static/media/p-netcoreframe.e96c1756.png",
+    "static/media/p-python.png": "/static/media/p-python.b32ab39f.png",
+    "static/media/p-react-logo.png": "/static/media/p-react-logo.9361df0c.png"
+  }
+}
